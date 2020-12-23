@@ -1,0 +1,3 @@
+D:\graphQl-test-app\graphql-client-test\node_modules
+D:\graphQl-test-app\graphql-server-test\node_modules
+D:\graphQl-test-app\graphql-client-test\my-app\node_modules
